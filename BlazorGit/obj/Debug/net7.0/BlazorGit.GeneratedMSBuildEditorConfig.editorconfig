@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorGit
 build_property.RootNamespace = BlazorGit
-build_property.ProjectDir = C:\Users\mshad\Downloads\ProyectosBlazor\BlazorGit\BlazorGit\
+build_property.ProjectDir = C:\hector\BlazorPracticaGit\BlazorGit\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mshad\Downloads\ProyectosBlazor\BlazorGit\BlazorGit
+build_property.MSBuildProjectDirectory = C:\hector\BlazorPracticaGit\BlazorGit
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/App.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/Pages/Counter.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/Pages/FetchData.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/Pages/Index.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/Shared/SurveyPrompt.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/_Imports.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/Shared/MainLayout.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-44q06hqh1k
 
-[C:/Users/mshad/Downloads/ProyectosBlazor/BlazorGit/BlazorGit/Shared/NavMenu.razor]
+[C:/hector/BlazorPracticaGit/BlazorGit/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xk2efx641z

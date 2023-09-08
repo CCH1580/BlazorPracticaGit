@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6nO0CleZamqKo9YoavyaaujYuFuWivU3zgjJVOX3+Jmx2Xfzo7PApZe1oM6gmoM7dD6qH8wF2oJm0kNzgumexg==",
+  "dgSpecHash": "MDLo48ezZdoiwGXkNJ5F1MIXzxTi5CV+7bbDIHw2zj/rmHdK0qfMvKQ9wWhGbD6G6eV7ftwqP8eDpXR/9NP3AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorGit\\BlazorGit\\BlazorGit.csproj",
+  "projectFilePath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorPracticaGit\\BlazorGit\\BlazorGit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mshad\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
     "C:\\Users\\mshad\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\microsoft.aspnetcore.components.7.0.10.nupkg.sha512",

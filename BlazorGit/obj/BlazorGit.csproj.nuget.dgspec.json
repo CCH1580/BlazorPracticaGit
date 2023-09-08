@@ -1,27 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorGit\\BlazorGit\\BlazorGit.csproj": {}
+    "C:\\PruebasGIT\\BlazorPracticaGit\\BlazorGit\\BlazorGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorGit\\BlazorGit\\BlazorGit.csproj": {
+    "C:\\PruebasGIT\\BlazorPracticaGit\\BlazorGit\\BlazorGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorGit\\BlazorGit\\BlazorGit.csproj",
+        "projectUniqueName": "C:\\PruebasGIT\\BlazorPracticaGit\\BlazorGit\\BlazorGit.csproj",
         "projectName": "BlazorGit",
-        "projectPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorGit\\BlazorGit\\BlazorGit.csproj",
-        "packagesPath": "C:\\Users\\mshad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\BlazorGit\\BlazorGit\\obj\\",
+        "projectPath": "C:\\PruebasGIT\\BlazorPracticaGit\\BlazorGit\\BlazorGit.csproj",
+        "packagesPath": "C:\\Users\\goten\\.nuget\\packages\\",
+        "outputPath": "C:\\PruebasGIT\\BlazorPracticaGit\\BlazorGit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\goten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.telerik.com/v3/index.json": {}
         },
